@@ -22,6 +22,7 @@ code {
   height: 40px;
   min-height: 40px;
   display: flex;
+  word-break: break-word;
 }
 input[type=radio] {
   box-shadow: unset !important;
